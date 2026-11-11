@@ -1,3 +1,5 @@
+package model;
+import AtendivelNoEstetica;
 
 public class Cachorro extends Animal implements AtendivelNoEstetica {
 	;

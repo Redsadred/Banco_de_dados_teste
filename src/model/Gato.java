@@ -1,3 +1,5 @@
+package model;
+import AtendivelNoEstetica;
 
 public class Gato extends Animal implements AtendivelNoEstetica {
 	Gato(String nome, int idade, String raca) {

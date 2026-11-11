@@ -1,4 +1,7 @@
+package repositorio;
 import java.util.ArrayList;
+
+import model.Animal;
 
 public class PetShopRepositorio {
 
